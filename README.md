@@ -1,4 +1,4 @@
-Este projeto foi feito para estudos do framework [react](pt-br.reactjs.org).
+Este projeto foi feito para estudos da biblioteca [react](http://pt-br.reactjs.org).
 
 ## O Projeto
 
